@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\themes\almahtab\templates\custom\categories.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target></target>
+        <note>Line: 1</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

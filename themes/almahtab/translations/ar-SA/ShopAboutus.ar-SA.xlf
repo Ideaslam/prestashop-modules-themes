@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\admin1017mfaenagmddc8ms3" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="d975dc11b04be3be1dc26a8b9348b7f1">
+        <source>Shop Aboutus Text</source>
+        <target>موقع المحطب هو الموقع الرائد في مجال منتجات التكنولوجيا والخدمات وتوفير الحلول. تقدم الشركة العديد من الأفكار وتضع بين أيديكم العديد من الأجهزة الإلكترونية وبأسعار لا تقبل المنافسة مخصصة للمستهلكين وأصحاب الأعمال الصغيرة الذين يزورون موقعنا ومنافذ بيعنا.
+مؤسسة عبدالمحسن زايد المحطب التي تمتلك موقع المحطب وهى مؤسسة رائدة في هذا المجال منذ اعوام كثيرة وهى جزء من شركة KMC المشهورة بالسوق السعودي لجميع انواع الالكترونيات.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a8ec5e720276a2f0f0d367ebb2985ad">
+        <source>Shop Aboutus Title</source>
+        <target>من نحن</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

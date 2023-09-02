@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\themes\almahtab\modules\bestcategories\views\templates\hook\bestcategories.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="ce6f1b2b2468161e7e757cdd4f4dc404">
+        <source>Top Categories</source>
+        <target>Top Categories</target>
+        <note>Line: 3</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

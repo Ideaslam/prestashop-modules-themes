@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\themes\almahtab\templates\custom\storefeatures.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="f885ebe02f21b74f2a9ec433957ed332">
+        <source>Safe Payment</source>
+        <target>Safe Payment</target>
+        <note>Line: 52</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

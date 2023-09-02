@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\admin1017mfaenagmddc8ms3" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="e1686a6a39d19b7ccb2f7a58d7d30c7f">
+        <source>In the event of a problem with the product</source>
+        <target>في حاله وجود مشكله في المنتج</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

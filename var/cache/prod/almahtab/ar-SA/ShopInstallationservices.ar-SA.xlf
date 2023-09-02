@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\themes\almahtab\templates\custom\storefeatures.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="7ec383b380e093e8e59165445db25b20">
+        <source>Installation services</source>
+        <target>Installation services</target>
+        <note>Line: 87</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

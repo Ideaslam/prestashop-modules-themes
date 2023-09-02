@@ -1,0 +1,36 @@
+{
+    "name": "secretcodes/qoyod",
+    "description": "integration with Qoyod system",
+    "authors": [
+        {
+            "name": "Islam Hassan Abu Aish",
+            "email": "islam.abuaish@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "symfony/translation": "^5.4",
+        "symfony/dependency-injection": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SecretCodes\\Module\\Qoyod\\": "src/" ,
+            "SecretCodes\\Module\\Qoyod\\Services\\": "src/Services/" ,
+            "SecretCodes\\Module\\Qoyod\\Exceptions\\": "src/Exceptions/"   ,
+            "SecretCodes\\Module\\Qoyod\\Interfaces\\": "src/Interfaces/" ,
+            "SecretCodes\\Module\\Qoyod\\Shared\\": "src/Shared/"  ,
+            "SecretCodes\\Module\\Qoyod\\Entity\\": "src/Entity/"  
+        },
+        "classmap": [ 
+            "src/"
+        ],
+        "exclude-from-classmap": []
+    },
+    "config": {
+        "preferred-install": "dist",
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module",
+    "author": "SecretCodes",
+    "license": "MIT"
+}

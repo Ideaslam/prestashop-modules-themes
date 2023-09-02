@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop_edition_basic_version_8.1.0\themes\almahtab\templates\_partials\footer.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="7a8ec5e720276a2f0f0d367ebb2985ad">
+        <source>Shop Aboutus Title</source>
+        <target>Shop Aboutus Title</target>
+        <note>Line: 50</note>
+      </trans-unit>
+      <trans-unit id="d975dc11b04be3be1dc26a8b9348b7f1">
+        <source>Shop Aboutus Text</source>
+        <target>Shop Aboutus Text</target>
+        <note>Line: 51</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
