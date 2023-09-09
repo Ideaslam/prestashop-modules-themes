@@ -31,7 +31,7 @@
        
         <img  aria-hidden="true" src="{$urls.img_url}cart.svg">
        
-        <span class="cart-products-count">({$cart.products_count})</span>
+        <span class="cart-products-count">{$cart.products_count}</span>
       {if $cart.products_count > 0}
         </a>
       {/if}

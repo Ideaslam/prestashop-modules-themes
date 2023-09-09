@@ -329,8 +329,8 @@ class __TwigTemplate_f538b3ecaef706235f8cdaa06bc61d2614a9133ef5dfbec40886f06f93f
         // line 141
         ob_start(function () { return ''; });
         echo ($context["template_collection"] ?? null);
-        $___internal_parse_11_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
-        echo twig_spaceless($___internal_parse_11_);
+        $___internal_parse_9_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
+        echo twig_spaceless($___internal_parse_9_);
         echo "', data.";
         echo twig_escape_filter($this->env, ($context["mapping_name"] ?? null), "html", null, true);
         echo ", data.ref, number);
@@ -607,8 +607,8 @@ class __TwigTemplate_f538b3ecaef706235f8cdaa06bc61d2614a9133ef5dfbec40886f06f93f
         // line 299
         ob_start(function () { return ''; });
         echo ($context["template_collection"] ?? null);
-        $___internal_parse_12_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
-        echo twig_spaceless($___internal_parse_12_);
+        $___internal_parse_10_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
+        echo twig_spaceless($___internal_parse_10_);
         echo "', suggestion.";
         echo twig_escape_filter($this->env, ($context["mapping_name"] ?? null), "html", null, true);
         echo ");

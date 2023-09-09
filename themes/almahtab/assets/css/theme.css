@@ -11857,6 +11857,21 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
   font-size: 0.875rem
 }
 
+.blockcart .header{
+  position: relative;
+}
+
+.blockcart .cart-products-count{
+  background-color: #d42027; 
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  color: white;
+  left: 10px;
+  position: absolute;
+  top: -2px;
+}
+
 #blockcart-modal .cart-content p .label,
 #blockcart-modal .cart-content .page-content.page-cms ul .label,
 .page-content.page-cms #blockcart-modal .cart-content ul .label,
@@ -13727,6 +13742,10 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
    
 }
 
+.blockcart img {
+  width : 40px ;
+}
+
 #header .header-nav .blockcart a {
   color: #7a7a7a
 }
@@ -14038,8 +14057,16 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
     margin:5px;
 }
 .control-slider-container{
-  
+
 }
+
+.whatsapp-fixed{
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+ 
+
 
 .slider-container{
   display: flex;
@@ -14224,3 +14251,19 @@ hr.main-divider{
   line-height: 20px;
 }
   
+
+.payment-icons{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.payment-icons img {
+  margin :10px; 
+ 
+}
+
+.payment-row{
+ 
+}

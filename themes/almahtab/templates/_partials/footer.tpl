@@ -60,8 +60,20 @@
           <img width="120px" height="120px" src="{$urls.img_url}maroof.png" alt=""> 
             
         </div>
-      </div>
 
+
+       <div class="payment-icons">
+       
+         
+          <img   height="30px" src="{$urls.img_url}payments/visa.svg" alt=""> 
+          <img   height="30px" src="{$urls.img_url}payments/mastercard.png" alt=""> 
+          <img   height="30px" src="{$urls.img_url}payments/mada.svg" alt=""> 
+           <img   height="30px" src="{$urls.img_url}payments/applepay.svg" alt="">  
+          <img   height="30px" src="{$urls.img_url}payments/tamara.svg" alt=""> 
+          <img   height="30px" src="{$urls.img_url}payments/tabby.svg" alt=""> 
+    
+      </div>
+</div>
 
       {block name='hook_footer'}
         {hook h='displayFooter'}

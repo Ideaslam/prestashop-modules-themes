@@ -24,6 +24,7 @@
  *}
 {extends file='page.tpl'}
 
+ {assign var='phone' value=Configuration::get('PS_SHOP_PHONE')}
 {assign var='categories' value=Category::getCategories($smarty.const.id_lang, true, false)}
 
     {block name='page_content_container'} 
@@ -47,6 +48,14 @@
           
           
          </div>
+
+           <div class="whatsapp-fixed"> 
+          <a target="_blank" href="https://api.whatsapp.com/send?phone={str_replace('+','00',$phone)}"> 
+          <img width="50px" height="50px" src="{$urls.img_url}whatsapp.svg" alt=""> 
+         
+         </a> 
+  </div>
+
        
       </section>   
          
@@ -57,3 +66,6 @@
         {/block}
       </section>
     {/block}
+
+
+

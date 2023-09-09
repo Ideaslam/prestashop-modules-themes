@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-09-09 17:35:06
+/* Smarty version 4.3.1, created on 2023-09-09 23:22:08
   from 'module:bestcategoriesviewstemplateshookbestcategories.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64fc829a2c95a7_78648495',
+  'unifunc' => 'content_64fcd3f04e8bd4_89249100',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64fc829a2c95a7_78648495 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64fcd3f04e8bd4_89249100 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
  <div class="categories-section">
  <h4><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Top Categories','d'=>'Shop.Theme.CategoryTitle'),$_smarty_tpl ) );?>

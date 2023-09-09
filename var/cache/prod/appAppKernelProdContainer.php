@@ -16,6 +16,6 @@ if (!\class_exists(appAppKernelProdContainer::class, false)) {
 
 return new \ContainerXd0gc3b\appAppKernelProdContainer([
     'container.build_hash' => 'Xd0gc3b',
-    'container.build_id' => 'acfe888b',
-    'container.build_time' => 1692358775,
+    'container.build_id' => 'b4ff235a',
+    'container.build_time' => 1694290913,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerXd0gc3b');
