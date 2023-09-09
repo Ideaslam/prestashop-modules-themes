@@ -10072,7 +10072,9 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
 }
 
 .carousel {
-  margin-bottom: 1.5rem
+  background-color: #f2f2f2;
+  border-radius: 25px;
+  padding: 20px;
 }
 
 .carousel .direction {
@@ -10089,9 +10091,12 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
 
 .carousel .carousel-item img { 
   max-width: 100%;
-  height: auto ;
-  border-radius : 8px; 
+  border-radius: 8px;
+  object-fit: cover;
+  height: 400px;
+  width: unset !important;
 }
+ 
 
 .carousel .carousel-item .caption {
   position: absolute;
@@ -14034,18 +14039,25 @@ body#checkout #hook-display-after-carrier>[class^="col"].links .row>[class^="col
     margin:5px;
 }
 
+.control-slider-container{
+    direction: ltr;
+}
 
 .slider-container{
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: space-around;
+  flex-direction: row ;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
+
+
 
 .slider-container .slider-body{
   width: 60%;
+  background-color: #f2f2f2;
+  border-radius: 25px;
 }
+ 
 
 #_desktop_cart{
   width: 100px;;

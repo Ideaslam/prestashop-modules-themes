@@ -47,7 +47,7 @@
         </li>
       {/foreach}
     </ul>
-    <div class=" " aria-label="{l s='Carousel buttons' d='Shop.Theme.Global'}">
+    <div class="control-slider-container" aria-label="{l s='Carousel buttons' d='Shop.Theme.Global'}">
      
       <a class="control-slider" href="#carousel" role="button" data-slide="prev" aria-label="{l s='Previous' d='Shop.Theme.Global'}">
         <span class="icon-prev hidden-xs" aria-hidden="true">

@@ -1,4 +1,4 @@
- <h1><h1>
+ 
  <div class="productday" >  
  
 {capture assign="productClasses"}{if !empty($productClass)}{$productClass}{else}col-xs-12 col-sm-12 col-xl-12{/if}{/capture}

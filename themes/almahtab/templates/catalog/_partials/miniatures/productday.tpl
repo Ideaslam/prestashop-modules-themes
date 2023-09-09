@@ -23,7 +23,7 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
 {block name='product_miniature_item'} 
-<div class="productday js-product product{if !empty($productClasses)} {$productClasses}{/if}">
+<div class="  js-product product{if !empty($productClasses)} {$productClasses}{/if}">
   <div class="productday-timer">
       <div > 
        <b> {l s='Product day' d='Shop.Theme.Catalog'} </b>

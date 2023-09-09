@@ -41,7 +41,7 @@
 
             
          
-                {hook h="displayHomeRight"}
+             {hook h="displayHomeRight"}
              
            
           

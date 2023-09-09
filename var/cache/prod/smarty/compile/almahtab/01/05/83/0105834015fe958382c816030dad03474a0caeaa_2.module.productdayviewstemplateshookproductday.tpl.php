@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-09-09 17:35:06
+/* Smarty version 4.3.1, created on 2023-09-09 21:50:38
   from 'module:productdayviewstemplateshookproductday.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64fc829a251c98_57826729',
+  'unifunc' => 'content_64fcbe7e34b6b8_07387126',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0105834015fe958382c816030dad03474a0caeaa' => 
     array (
       0 => 'module:productdayviewstemplateshookproductday.tpl',
-      1 => 1693665212,
+      1 => 1694284783,
       2 => 'module',
     ),
   ),
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/productday.tpl' => 1,
   ),
 ),false)) {
-function content_64fc829a251c98_57826729 (Smarty_Internal_Template $_smarty_tpl) {
-?> <h1><h1>
+function content_64fcbe7e34b6b8_07387126 (Smarty_Internal_Template $_smarty_tpl) {
+?> 
  <div class="productday" >  
  
 <?php $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', "productClasses", null);
